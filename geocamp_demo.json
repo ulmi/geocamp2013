@@ -4,9 +4,9 @@
 		{ 
 			"type": "Feature",
 			"properties": {
-				"Speaker": "Sandro Batista",
+				"Speaker": "<a href=http://geocampers.com/>Sandro Batista</a>",
 				"Bio": "Wreaking havoc in the vegetable garden.",
-				"Photo": "http://geocampers.com/images/sandro_small",
+				"Photo": "http://geocampers.com/images/sandro_small.png",
 				"href": "http://geocampers.com/"
 			},
 			"geometry": {
