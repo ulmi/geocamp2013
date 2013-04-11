@@ -4,13 +4,14 @@
 		{ 
 			"type": "Feature",
 			"properties": {
-				"Speaker": "Peter Steps Bunny",
+				"Speaker": "Sandro Batista",
 				"Bio": "Wreaking havoc in the vegetable garden.",
-				"Photo": "http://lorempixel.com/80/80/"
+				"Photo": "http://geocampers.com/80/80/",
+				"href": "http://geocampers.com/"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 0.112888,0.231915 ]
+				"coordinates": [ 39.7249,-9.150 ]
 			} 
 		},
 		{ 
