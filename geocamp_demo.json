@@ -6,12 +6,12 @@
 			"properties": {
 				"Speaker": "Sandro Batista",
 				"Bio": "Wreaking havoc in the vegetable garden.",
-				"Photo": "http://geocampers.com/80/80/",
+				"Photo": "http://geocampers.com/images/sandro_small",
 				"href": "http://geocampers.com/"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 39.7249,-9.150 ]
+				"coordinates": [ -9.150,39.7249, ]
 			} 
 		},
 		{ 
