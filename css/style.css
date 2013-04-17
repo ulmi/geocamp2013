@@ -288,7 +288,7 @@ p {
   overflow: hidden;
   padding-top: 35px;
 }
-.row-1, .row-2 {
+.row-1, .row-2, .row-3 {
   background: #fff;
   padding: 14px 0;
 }
@@ -298,6 +298,10 @@ p {
 	border-top:2px dashed #ccc;
 	border-bottom:2px dashed #ccc;
 	font-style:italic;}
+  .row-3 {
+  background:#eee;
+  border-top:2px dashed #ccc;
+  border-bottom:2px dashed #ccc;}
 .row-2 h3 {
 	margin:10px 0;
 	font-style:normal;}	
