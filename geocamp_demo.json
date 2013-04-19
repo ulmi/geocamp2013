@@ -4,51 +4,27 @@
 		{ 
 			"type": "Feature",
 			"properties": {
-				"Speaker": "<a href=http://geocampers.com/>Sandro Batista</a>",
-				"Bio": "Wreaking havoc in the vegetable garden.",
+				"Speaker": "Sandro Batista",
+				"Bio": "<a http://blog.geocampers.com/post/47700866480/o-nosso-primeiro-speaker-o-sandro-batista>O nosso primeiro speaker</a>",
 				"Photo": "http://geocampers.com/images/sandro_small.png",
 				"href": "http://geocampers.com/"
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -9.150036399999976,38.7252993 ]
+				"coordinates": [ -9.17983490000006,38.7683893 ]
 			} 
 		},
 		{ 
 			"type": "Feature",
 			"properties": {
-				"Speaker": "D Ironworker of the Bush",
-				"Bio": "JS Wizard",
-        "Photo": "http://lorempixel.com/80/80/"
+				"Speaker": "Olaf Veerman",
+				"Bio": "<a http://tmblr.co/Z0ogrsj2a5PR>O Olaf está de volta</a>",
+        "Photo": "http://media.tumblr.com/6bb3d616646a5b5f4adac9ffd9d0844e/tumblr_inline_mliej1wf3n1qz4rgp.png/"
 				},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -7.937279, 40.895868 ]
+				"coordinates": [ -9.14419991318357, 38.71840196595285 ]
 			}
 		},
-		{ 
-			"type": "Feature",
-			"properties": {
-				"Speaker": "O Barqueiro",
-				"Bio": "Takes you into safe haven",
-        "Photo": "http://lorempixel.com/80/80/"
-				},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ 5.285883,52.206555 ]
-			}
-		},
-		{ 
-			"type": "Feature",
-			"properties": {
-				"Speaker": "Fleecy little Tango",
-				"Bio": "",
-        "Photo": "http://lorempixel.com/80/80/"
-				},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [ -95.677068,37.0625 ]
-			}
-		}
 	]
 }
