@@ -29,7 +29,7 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "Nuno Veloso",
-				"Bio": "<a http://tmblr.co/Z0ogrsjHPO0r target=_blank>Um Português em Barcelona</a>",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsjHPO0r target=_blank>Um Português em Barcelona</a>",
         		"Photo": "https://si0.twimg.com/profile_images/2790060825/699cafdc0734e562f2aef9b1f696b153_bigger.jpeg"
 				},
 			"geometry": {
