@@ -5,7 +5,7 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "Sandro Batista",
-				"Bio": "<a href=http://blog.geocampers.com/post/47700866480/o-nosso-primeiro-speaker-o-sandro-batista>O nosso primeiro speaker</a>",
+				"Bio": "<a href="http://blog.geocampers.com/post/47700866480/o-nosso-primeiro-speaker-o-sandro-batista" target="_blank">O nosso primeiro speaker</a>",
 				"Photo": "http://geocampers.com/images/sandro_small.png"
 			},
 			"geometry": {
@@ -17,12 +17,24 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "Olaf Veerman",
-				"Bio": "<a http://tmblr.co/Z0ogrsj2a5PR>O Olaf está de volta</a>",
+				"Bio": "<a href="http://tmblr.co/Z0ogrsj2a5PR" target="_blank">O Olaf está de volta</a>",
         		"Photo": "http://geocampers.com/images/olaf_small.png"
 				},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [ -9.14419991318357, 38.71840196595285 ]
+			}
+		},
+		{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Nuno Veloso",
+				"Bio": "<a href="http://tmblr.co/Z0ogrsj2a5PR" target="_blank">O Olaf está de volta</a>",
+        		"Photo": "https://si0.twimg.com/profile_images/2790060825/699cafdc0734e562f2aef9b1f696b153_bigger.jpeg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 2.17340349999995, 41.3850639 ]
 			}
 		}
 	]
