@@ -36,6 +36,18 @@
 				"type": "Point",
 				"coordinates": [ 2.17340349999995, 41.3850639 ]
 			}
+		},
+		{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Joana Simões",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsjpOTd4 target=_blank>Novo Orador...Oradora...Speaker!!</a>",
+        		"Photo": "http://media.tumblr.com/0986fe723c8b82b07e99857f518d9aae/tumblr_inline_mm0uvtyuse1qz4rgp.jpg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ 2.198, 41.4250 ]
+			}
 		}
 	]
 }
