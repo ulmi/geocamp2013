@@ -10,7 +10,7 @@
 			},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -9.17983490000006,38.7683893 ]
+				"coordinates": [ -9.17983490000006,38.7683893]
 			} 
 		},
 		{ 
@@ -22,7 +22,7 @@
 				},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ -9.14419991318357, 38.71840196595285 ]
+				"coordinates": [ -9.15985107421875, 38.724090458956965]
 			}
 		},
 		{ 
@@ -34,7 +34,7 @@
 				},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 2.17340349999995, 41.3850639 ]
+				"coordinates": [ 2.220954895019531, 41.412865656003755]
 			}
 		},
 		{ 
@@ -46,7 +46,19 @@
 				},
 			"geometry": {
 				"type": "Point",
-				"coordinates": [ 2.19800000000000, 41.4250000 ]
+				"coordinates": [ 2.131690979003906, 41.37655094311545]
+			}
+		},
+		{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Flávio Sousa",
+				"Bio": "<a http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Novo mês, novo orador!!</a>",
+        		"Photo": "http://geocampers.com/images/flavio_small.jpg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -9.132814407348633, 38.71049581722763]
 			}
 		}
 	]
