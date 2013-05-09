@@ -60,6 +60,18 @@
 				"type": "Point",
 				"coordinates": [ -9.132814407348633, 38.71049581722763]
 			}
+		},
+		{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Marco Heleno",
+				"Bio": "<a http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Marco Heleno + DataViz</a>",
+        		"Photo": "http://geocampers.com/images/MarcoHeleno_small.jpg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -8.807682999999997, 39.74953310000001]
+			}
 		}
 	]
 }
