@@ -72,6 +72,18 @@
 				"type": "Point",
 				"coordinates": [ -8.807682999999997, 39.74953310000001]
 			}
+		},
+			{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "António José Silva",
+				"Bio": "<a http://tmblr.co/Z0ogrskuctUW target=_blank>Tozé ;]</a>",
+        		"Photo": "http://geocampers.com/images/toze_small.jpg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -8.446436800000015, 40.5754246]
+			}
 		}
 	]
 }
