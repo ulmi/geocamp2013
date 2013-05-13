@@ -53,7 +53,7 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "Flávio Sousa",
-				"Bio": "<a http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Novo mês, novo orador!!</a>",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Novo mês, novo orador!!</a>",
         		"Photo": "http://geocampers.com/images/flavio_small.jpg"
 				},
 			"geometry": {
@@ -65,7 +65,7 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "Marco Heleno",
-				"Bio": "<a http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Marco Heleno + DataViz</a>",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsk2lXa1 target=_blank>Marco Heleno + DataViz</a>",
         		"Photo": "http://geocampers.com/images/MarcoHeleno_small.jpg"
 				},
 			"geometry": {
@@ -77,7 +77,7 @@
 			"type": "Feature",
 			"properties": {
 				"Speaker": "António José Silva",
-				"Bio": "<a http://tmblr.co/Z0ogrskuctUW target=_blank>Tozé ;]</a>",
+				"Bio": "<a href=http://tmblr.co/Z0ogrskuctUW target=_blank>Tozé ;]</a>",
         		"Photo": "http://geocampers.com/images/toze_small.jpg"
 				},
 			"geometry": {
