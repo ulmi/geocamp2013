@@ -85,5 +85,17 @@
 				"coordinates": [ -8.446436800000015, 40.5754246]
 			}
 		}
+				{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Jorge Sanz",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsl5-E1f target=_blank>O Jorge Sanz de volta!</a>",
+        		"Photo": "http://geocampers.com/images/jorge_small.jpg"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -0.376288053639368, 39.46990755062549]
+			}
+		}
 	]
 }
