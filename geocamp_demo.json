@@ -84,7 +84,7 @@
 				"type": "Point",
 				"coordinates": [ -8.446436800000015, 40.5754246]
 			}
-		}
+		},
 				{ 
 			"type": "Feature",
 			"properties": {
@@ -96,6 +96,20 @@
 				"type": "Point",
 				"coordinates": [ -0.376288053639368, 39.46990755062549]
 			}
+
+		},
+					{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "João Ricardo Vasconcelos",
+				"Bio": "<a href=http://tmblr.co/Z0ogrslURcjR target=_blank>OpenGOV</a>",
+        		"Photo": "http://geocampers.com/images/vasconcelos_small.png"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -9.171283499999959, 38.750646]
+			}
+			
 		}
 	]
 }
