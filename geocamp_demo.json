@@ -110,6 +110,19 @@
 				"coordinates": [ -9.171283499999959, 38.750646]
 			}
 			
+		},
+						{ 
+			"type": "Feature",
+			"properties": {
+				"Speaker": "Sérgio Freitas",
+				"Bio": "<a href=http://tmblr.co/Z0ogrsldyhw0 target=_blank>Geo pout-pouri</a>",
+        		"Photo": "http://geocampers.com/images/sergio_small.png"
+				},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [ -9.221126300000037, 38.7380087]
+			}
+			
 		}
 	]
 }
